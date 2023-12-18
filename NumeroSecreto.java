@@ -17,12 +17,12 @@ public class NumeroSecreto {
 				 break;
 			 }
 			 else if (n==5) {
-				 System.out.printf("Lo siento, no has acertado el número %d", numSecreto);
+				 System.out.printf("Lo siento, no has acertado el nï¿½mero %d", numSecreto);
 			 }
 			 n+=1;
 		}
 		sc.close();
-
+//He modificado este programa para la actividad de entornos de desarrollo//
 	}
 
 }
